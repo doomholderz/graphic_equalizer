@@ -1,4 +1,4 @@
-# Equalizer
+# GraphicEqualizer
 Graphic equalizer in MATLAB that:
 * Loads and displays audio (wav, flac, MP3)
 * Has 10 bands for equalization
